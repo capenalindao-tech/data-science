@@ -1,2 +1,2 @@
 # data-science
-Primer repositorio
+Primer repositorio del Bootcamp Data Science Grupo G6
